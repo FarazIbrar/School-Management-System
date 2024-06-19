@@ -1,0 +1,15 @@
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\bin\Debug\net7.0\DALLayer.deps.json
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\bin\Debug\net7.0\DALLayer.dll
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\bin\Debug\net7.0\DALLayer.pdb
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\DALLayer.csproj.AssemblyReference.cache
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\DALLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\DALLayer.AssemblyInfoInputs.cache
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\DALLayer.AssemblyInfo.cs
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\DALLayer.csproj.CoreCompileInputs.cache
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\DALLayer.dll
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\refint\DALLayer.dll
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\DALLayer.pdb
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\ref\DALLayer.dll
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\bin\Debug\net7.0\ModelLayer.dll
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\bin\Debug\net7.0\ModelLayer.pdb
+C:\Users\faraz\OneDrive\Desktop\School Management System\DALLayer\obj\Debug\net7.0\DALLayer.csproj.Up2Date

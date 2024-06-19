@@ -1,0 +1,12 @@
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\bin\Debug\net7.0\ModelLayer.deps.json
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\bin\Debug\net7.0\ModelLayer.dll
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\bin\Debug\net7.0\ModelLayer.pdb
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\obj\Debug\net7.0\ModelLayer.csproj.AssemblyReference.cache
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\obj\Debug\net7.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\obj\Debug\net7.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\obj\Debug\net7.0\ModelLayer.AssemblyInfo.cs
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\obj\Debug\net7.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\obj\Debug\net7.0\ModelLayer.dll
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\obj\Debug\net7.0\refint\ModelLayer.dll
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\obj\Debug\net7.0\ModelLayer.pdb
+C:\Users\faraz\OneDrive\Desktop\School Management System\ModelLayer\obj\Debug\net7.0\ref\ModelLayer.dll
