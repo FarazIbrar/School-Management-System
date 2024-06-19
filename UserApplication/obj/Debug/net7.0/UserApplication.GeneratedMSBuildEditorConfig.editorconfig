@@ -1,0 +1,163 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UserApplication
+build_property.RootNamespace = UserApplication
+build_property.ProjectDir = C:\Users\faraz\OneDrive\Desktop\School Management System\UserApplication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\faraz\OneDrive\Desktop\School Management System\UserApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/Add Fee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkIEZlZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/AddExam.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRXhhbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/AddSalary.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU2FsYXJ5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/AddStudent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkU3R1ZGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/AddTeacher.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkVGVhY2hlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/AllStudentExam.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxsU3R1ZGVudEV4YW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/AllStudentFee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxsU3R1ZGVudEZlZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/AllStudents.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxsU3R1ZGVudHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/AllTeachers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxsVGVhY2hlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/AllTeacherSalary.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxsVGVhY2hlclNhbGFyeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/ForOnlyStudents.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yT25seVN0dWRlbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/ForOnlyTeacher.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yT25seVRlYWNoZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/ForStudent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yU3R1ZGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/ForTeacher.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yVGVhY2hlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/StudentExamInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudEV4YW1JbmZvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/StudentFeeInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudEZlZUluZm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/StudentInforamtion.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudEluZm9yYW10aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/StudentPromotion.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFByb21vdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/TAddExam.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVEFkZEV4YW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/TakeAttendance.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFrZUF0dGVuZGFuY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/TAllStudentExam .razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVEFsbFN0dWRlbnRFeGFtIC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/TeacherFeeInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlckZlZUluZm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/TeacherInformation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlckluZm9ybWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/TStudentExamInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVFN0dWRlbnRFeGFtSW5mby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/TTakeAttendance.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVFRha2VBdHRlbmRhbmNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/TViewAttendanceOfClass.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVFZpZXdBdHRlbmRhbmNlT2ZDbGFzcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/ViewAttendanceOfClass.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld0F0dGVuZGFuY2VPZkNsYXNzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-dlfyq76ywt
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ium5k3fhos
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/faraz/OneDrive/Desktop/School Management System/UserApplication/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
