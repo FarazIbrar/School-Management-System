@@ -55,66 +55,33 @@ public class DBHelper
     private SqlConnection connection = new SqlConnection("Your Connection String");
 }
 
-
-## School Management System
-
-# Welcome
-
-Welcome to the School Management System repository! This system is designed to efficiently manage various aspects of a school, including students, teachers, revenue, exams, and attendance. It supports multiple user roles for streamlined operations.
-
-## Table of Contents
-
-* [Running the Application](#running-the-application)
-* [Features and Modules](#features-and-modules)
-* [User Roles](#user-roles)
-* [Contributing](#contributing)
-* [License](#license)
-
-## Running the Application
-
-**1. Configure the Database:**
-
-* Ensure your SQL Server database is properly set up.
-* Update the connection string in `DBHelper.cs` under the Controllers folder to match your database details.
-
-**2. Build and Run the Project:**
-
-* Use Visual Studio or your preferred IDE to build and run the solution.
-
-## Features and Modules
-
-**...(Replace with details of your functionalities)**
-
-* Student Management
-    * CRUD (Create, Read, Update, Delete) operations for student records.
-    * View detailed information about students.
-    * Register new students.
-    * Handle student promotion.
-* Teacher Management
-    * CRUD operations for teacher records.
-    * View detailed information about teachers.
-    * Register new teachers.
-* Revenue Management
-    * Manage student fees.
-    * Manage teacher salaries.
-* Examination Management
-    * Manage exam information.
-* Attendance Management
-    * Record student attendance.
-    * Review attendance records by class.
-
-**...(Replace with details of your functionalities)**
-
-## User Roles
-
-* **Admin:** Full access to all functionalities.
-* **Teacher:** View personal information, manage attendance, and access exam records.
-* **Student:** View personal information and exam results.
-
-## Contributing
-
+Running the Application
+Configure the database: Ensure your SQL Server database is properly set up and the connection string in DBHelper.cs is accurate.
+Build and run the project: Use Visual Studio or your preferred IDE to build and run the solution.
+Features and Modules
+Student Management
+Manage Students: Create, read, update, and delete student records.
+Student Details: View detailed information about individual students.
+Admission: Register new students through an admission form.
+Promotion: Handle the promotion of students to the next grade level.
+Teacher Management
+Manage Teachers: Full CRUD operations for teacher records.
+Teacher Details: Access detailed information about teachers.
+Add Teacher: Register new teachers to the system.
+Revenue Management
+Student Fees: Add and view fee information for students.
+Teacher Salaries: Add and view salary details for teachers.
+Examination Management
+Manage Exams: Add and view exam information.
+Attendance Management
+Mark Attendance: Record attendance for students.
+View Attendance: Review attendance records by class.
+User Roles
+Admin: Full access to all system functionalities.
+Teacher: View personal information, manage attendance, and exam records.
+Student: View personal information and exam results.
+Contributing
 We welcome contributions! If you have suggestions for improvements or encounter issues, please open an issue or submit a pull request.
 
-## License
-
-[Include your license information here]
+License
+This project is licensed under the MIT License. For more details, refer to the LICENSE file.
