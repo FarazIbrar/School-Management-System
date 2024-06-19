@@ -27,13 +27,13 @@ The School Management System is a comprehensive solution aimed at simplifying th
 
 ## Setup Guide
 
-To get started with the School Management System, follow these steps:
+--To get started with the School Management System, follow these steps:
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/school-management-system.git
-    ```
-2. **Open the project**: Locate the `SchoolManagementSystem.sln` solution file and open it with Visual Studio or your preferred IDE.
+--1. **Clone the repository**:
+--  ```bash
+--  git clone https://github.com/your-username/school-management-system.git
+--  ```
+--2. **Open the project**: Locate the `SchoolManagementSystem.sln` solution file and open it with Visual Studio or your preferred IDE.
 
 ## Project Structure
 
@@ -48,12 +48,14 @@ The project is organized into several key sections:
 
 Before running the project, set up a SQL Server database with the required tables. Update the connection string in the `DBHelper.cs` file under the Controllers.
 
+
 ```csharp
 // DBHelper.cs
 public class DBHelper
 {
-    private SqlConnection connection = new SqlConnection("Your Connection String");
+private SqlConnection connection = new SqlConnection("Your Connection String");
 }
+```
 
 # Running the Application
 1. Configure the database: Ensure your SQL Server database is properly set up and the connection string in DBHelper.cs is accurate.
