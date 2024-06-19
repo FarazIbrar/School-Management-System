@@ -27,13 +27,16 @@ The School Management System is a comprehensive solution aimed at simplifying th
 
 ## Setup Guide
 
---To get started with the School Management System, follow these steps:
+To get started with the School Management System, follow these steps:
 
---1. **Clone the repository**:
---  ```bash
---  git clone https://github.com/your-username/school-management-system.git
---  ```
---2. **Open the project**: Locate the `SchoolManagementSystem.sln` solution file and open it with Visual Studio or your preferred IDE.
+1. Clone the project using Git or download the ZIP file from the repository.
+2. If you are using Visual Studio, copy the `.vs` folder from the downloaded project and paste it into the main project folder.
+3. Import the `.bacpac` file into your SQL Server Management Studio (SSMS) to create the database for the project.
+4. Obtain the connection string from your SQL Server instance and paste it into the `DBHelper.cs` file located in the project's backend folder.
+5. Open the `SchoolManagementSystem.sln` solution file with Visual Studio. Ensure that you have the .NET 7.0 SDK installed, as the project is built on this version.
+
+After completing these steps, you are ready to run the School Management System project in Visual Studio.
+
 
 ## Project Structure
 
