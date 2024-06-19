@@ -97,6 +97,6 @@ private SqlConnection connection = new SqlConnection("Your Connection String");
 We welcome contributions! If you have suggestions for improvements or encounter issues, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. For more details, refer to the [LICENSE](./LICENSE) file.
+This project is licensed under the MIT License. For more details, refer to the [LICENSE](./[LICENSE](https://github.com/FarazIbrar/School-Management-System?tab=MIT-1-ov-file)) file.
 
 
