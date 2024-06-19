@@ -55,33 +55,42 @@ public class DBHelper
     private SqlConnection connection = new SqlConnection("Your Connection String");
 }
 
-Running the Application
-Configure the database: Ensure your SQL Server database is properly set up and the connection string in DBHelper.cs is accurate.
-Build and run the project: Use Visual Studio or your preferred IDE to build and run the solution.
-Features and Modules
-Student Management
-Manage Students: Create, read, update, and delete student records.
-Student Details: View detailed information about individual students.
-Admission: Register new students through an admission form.
-Promotion: Handle the promotion of students to the next grade level.
-Teacher Management
-Manage Teachers: Full CRUD operations for teacher records.
-Teacher Details: Access detailed information about teachers.
-Add Teacher: Register new teachers to the system.
-Revenue Management
-Student Fees: Add and view fee information for students.
-Teacher Salaries: Add and view salary details for teachers.
-Examination Management
-Manage Exams: Add and view exam information.
-Attendance Management
-Mark Attendance: Record attendance for students.
-View Attendance: Review attendance records by class.
-User Roles
-Admin: Full access to all system functionalities.
-Teacher: View personal information, manage attendance, and exam records.
-Student: View personal information and exam results.
-Contributing
+# Running the Application
+1. Configure the database: Ensure your SQL Server database is properly set up and the connection string in DBHelper.cs is accurate.
+2. Build and run the project: Use Visual Studio or your preferred IDE to build and run the solution.
+
+## Features and Modules
+
+### Student Management
+- Manage Students: Create, read, update, and delete student records.
+- Student Details: View detailed information about individual students.
+- Admission: Register new students through an admission form.
+- Promotion: Handle the promotion of students to the next grade level.
+
+### Teacher Management
+- Manage Teachers: Full CRUD operations for teacher records.
+- Teacher Details: Access detailed information about teachers.
+- Add Teacher: Register new teachers to the system.
+
+### Revenue Management
+- Student Fees: Add and view fee information for students.
+- Teacher Salaries: Add and view salary details for teachers.
+
+### Examination Management
+- Manage Exams: Add and view exam information.
+
+### Attendance Management
+- Mark Attendance: Record attendance for students.
+- View Attendance: Review attendance records by class.
+
+## User Roles
+- Admin: Full access to all system functionalities.
+- Teacher: View personal information, manage attendance, and exam records.
+- Student: View personal information and exam results.
+
+## Contributing
 We welcome contributions! If you have suggestions for improvements or encounter issues, please open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. For more details, refer to the LICENSE file.
+
